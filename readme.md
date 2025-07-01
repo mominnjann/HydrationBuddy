@@ -14,12 +14,17 @@ Hydration Buddy is a modern Android app that helps you stay healthy by sending h
 
 ## Screenshots
 
-Add screenshots to the `screenshots/` folder and reference them here:
+### Home
+![Home](screenshots/home.png)
 
-```
-![Home Screen](screenshots/home.png)
-![Monthly Stats](screenshots/monthly.png)
-```
+### Set Goal
+![Set Goal](screenshots/setgoal.png)
+
+### FAQ
+![FAQ](screenshots/faq.png)
+
+### Contact Us
+![Contact Us](screenshots/contactus.png)
 
 ## Getting Started
 
